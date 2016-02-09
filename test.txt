@@ -1,7 +1,4 @@
 aaaaaaaa
-<<<<<<< HEAD
 bbbbb
 cccccccc
-=======
->>>>>>> parent of 44d3d31... test2
 
