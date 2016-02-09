@@ -3,10 +3,5 @@ bbbbb
 cccccccc
 dddddd
 red 5
-<<<<<<< HEAD
 red 8
 red 9
-
-
-=======
->>>>>>> parent of 19c91eb... red 6
